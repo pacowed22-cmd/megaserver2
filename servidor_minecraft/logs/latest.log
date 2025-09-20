@@ -2154,3 +2154,18 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [20:35:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [20:35:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [20:41:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:49:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:49:29] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[20:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was burned to death by Cyberdemon
+[20:50:01] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:45, y:33, z:90] in the dimension -1
+[20:50:01] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[20:50:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:50:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:50:28] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[20:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga got revenge on Cyberdemon
+[20:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Hot Stuff]
+[20:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:50:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:50:57] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[20:50:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:50:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! 466.1085276943475,21.0,629.0017803201624
