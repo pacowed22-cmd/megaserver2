@@ -2245,3 +2245,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [05:37:08] [Server thread/INFO] [Mekanism]: Sent config to 'TenMouse.'
 [05:37:08] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for TenMouse...
 [05:37:08] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TenMouse
+[05:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Farmer
+[05:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[05:57:07] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:539, y:65, z:757] in the dimension 0
+[05:57:07] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[05:57:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[05:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Soldier
+[05:57:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse got revenge on Zombie Soldier
+[05:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Soldier
+[05:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by TenMouse
+[05:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by TenMouse
+[05:59:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved wrongly!
