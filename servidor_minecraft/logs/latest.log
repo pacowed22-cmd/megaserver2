@@ -2414,3 +2414,108 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [06:25:57] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:597, y:67, z:752] in the dimension 0
 [06:25:57] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
 [06:25:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:26:04] [Server thread/INFO] [mca]: Villager death: Hiedi. Caused by: Ghost. UUID: e743fdd2-718c-4b08-b369-eed343fb660b
+[06:26:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Rapariga lost connection: Disconnected
+[06:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga left the game
+[06:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was struck by lightning
+[06:26:25] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:621, y:66, z:767] in the dimension 0
+[06:26:25] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:26:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:26:38] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[06:26:38] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 138 mods : buildcraftlib@8.0.0,cyclopscore@1.6.7,levelup2@${version},astralsorcery@1.10.27,hats@7.1.1,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,buildcraftenergy@8.0.0,cofhcore@4.6.6,draconicevolution@2.3.28,mcwwindows@1.0,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,armoryexpansion-matteroverdrive@1.4.2,ctm@MC1.12.2-1.0.2.31,evilcraft@0.10.78,bewitchment@0.22.65,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,uteamcore@2.2.5.375,buildinggadgets@2.8.4,cofhworld@1.4.0,simpleplanes@3.0.1.7,mcwdoors@1.3,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.6,jeresources@0.9.2.60,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,acintegration@1.11.3,mysticalagradditions@1.3.2,twilightforest@3.11.1021,refinedstorage@1.6.16,morph@7.2.0,industrialforegoing@1.12.2-1.12.2,mcwbridges@1.0.6,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,usefulbackpacks@1.5.4.85,commoncapabilities@2.4.8,redstoneflux@2.1.1,buildcraftsilicon@8.0.0,mcwfences@1.0.0,mcwtrpdoors@1.0.2,botania@r1.10-364,teslacorelib_registries@1.0.18,evilcraftcompat@1.0.0,armorpointspp@3.1.4,patchouli@1.0-23.6,ic2@2.8.222-ex112,abyssalcraft@1.11.2,buildcraftbuilders@8.0.0,buildcraftfactory@8.0.0,teslacorelib@1.0.18,elevatorid@1.3.14,gunpowderlib@1.12.2-1.1,FML@8.0.99.99,obfuscate@0.4.2,thermalexpansion@5.5.7,tombstone@4.7.5,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@8.0.0,mcwfurnitures@1.0.1,armoryexpansion-custommaterials@1.4.2,wings@1.1.6,codechickenlib@3.2.3.358,buildcraftcore@8.0.0,mcwlights@1.0.6,techguns@2.0.2.0,mowziesmobs@1.5.8,cucumber@1.1.3,cgm@0.15.3,cyberware@0.2.11.29,mca@6.1.0,bountifulbaubles@0.0.1,ebwizardry@4.3.15,jei@4.16.1.1013,buildcrafttransport@8.0.0,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,bauble_wings@1.0.0,thermalfoundation@2.6.7,techguns_core@1.12.2-1.0,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,champions@1.12.2-1.0.11.10,acheads@2.1.1,conarm@1.2.5.10,fossil@8.0.5,mahoutsukai@1.12.2-v1.19.55,thermaltinkering@1.0,ichunutil@7.2.2,inventorypets@2.0.15,micdoodlecore@4.0.6,armoryexpansion@1.4.2,mowzies_wings@1.0.0,forge@14.23.5.2860,brandonscore@2.4.20,chococraft@0.9.1.52,buildcraftrobotics@8.0.0,mcwpaths@1.0.2,cyclicmagic@1.20.12,infernalmobs@1.7.6,mysticalagriculture@1.7.5,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,theoneprobe@1.4.28,thermaldynamics@2.5.6,baubles@1.5.2,creativecore@1.10.0,integrationforegoing@1.12.2-1.11,extrautils2@1.0,howlingmoon@0.9,bloodmoon@1.5.3,vanillafix@1.0.10-150,mantle@1.12-1.3.3.55,spartanshields@1.5.5,jaopca@1.12.2-2.3.14.37,bhc@2.0.3,autoreglib@1.3-32,galacticraftcore@4.0.6,wrapup@1.12-1.1.3,opframe@1.4.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,armoryexpansion-iceandfire@1.4.2,aether_legacy@1.5.4.1,tinkersjei@1.2,mjrlegendslib@1.12.2-1.2.1
+[06:26:38] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[06:26:38] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Zombie Soldier
+[06:26:43] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:547, y:65, z:758] in the dimension 0
+[06:26:43] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:26:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:26:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:26:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Rapariga[/127.76.209.42:36193] logged in with entity id 191911 at (576.5246500344224, 72.0, 703.3576081033573)
+[06:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga joined the game
+[06:26:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:26:45] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player Rapariga.
+[06:26:45] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Rapariga
+[06:26:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:26:45] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Rapariga
+[06:26:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:26:45] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Rapariga
+[06:26:45] [Server thread/INFO] [Mekanism]: Sent config to 'Rapariga.'
+[06:26:45] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Rapariga...
+[06:26:45] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Rapariga
+[06:26:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -624.6785416275761,-8.078400001525878,-635.0809933037945
+[06:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was blown up by Creeper
+[06:26:51] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:578, y:72, z:701] in the dimension 0
+[06:26:52] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[06:26:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was struck by lightning
+[06:27:02] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:27:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:27:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Mutant Skeleton
+[06:27:04] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[06:27:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:27:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved wrongly!
+[06:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[06:28:08] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:540, y:65, z:762] in the dimension 0
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[06:28:08] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[06:28:08] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[06:28:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:28:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Zombie Miner
+[06:28:27] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:539, y:65, z:762] in the dimension 0
+[06:28:27] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:28:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:28:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[06:28:38] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:534, y:65, z:762] in the dimension 0
+[06:28:38] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:28:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:28:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Soldier
+[06:28:47] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:534, y:65, z:763] in the dimension 0
+[06:28:47] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:28:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:29:10] [Server thread/INFO] [mca]: Villager death: Ashanti. Caused by: Ghost. UUID: 0a4ffccb-ab34-47c5-a816-5d27ccf927b8
+[06:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Bandit
+[06:29:27] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:668, y:64, z:787] in the dimension 0
+[06:29:27] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:29:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[06:29:40] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:654, y:67, z:771] in the dimension 0
+[06:29:40] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:29:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:30:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Disconnected
+[06:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[06:30:55] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[06:30:55] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 138 mods : buildcraftlib@8.0.0,cyclopscore@1.6.7,levelup2@${version},astralsorcery@1.10.27,hats@7.1.1,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,buildcraftenergy@8.0.0,cofhcore@4.6.6,draconicevolution@2.3.28,mcwwindows@1.0,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,armoryexpansion-matteroverdrive@1.4.2,ctm@MC1.12.2-1.0.2.31,evilcraft@0.10.78,bewitchment@0.22.65,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,uteamcore@2.2.5.375,buildinggadgets@2.8.4,cofhworld@1.4.0,simpleplanes@3.0.1.7,mcwdoors@1.3,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.6,jeresources@0.9.2.60,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,acintegration@1.11.3,mysticalagradditions@1.3.2,twilightforest@3.11.1021,refinedstorage@1.6.16,morph@7.2.0,industrialforegoing@1.12.2-1.12.2,mcwbridges@1.0.6,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,usefulbackpacks@1.5.4.85,commoncapabilities@2.4.8,redstoneflux@2.1.1,buildcraftsilicon@8.0.0,mcwfences@1.0.0,mcwtrpdoors@1.0.2,botania@r1.10-364,teslacorelib_registries@1.0.18,evilcraftcompat@1.0.0,armorpointspp@3.1.4,patchouli@1.0-23.6,ic2@2.8.222-ex112,abyssalcraft@1.11.2,buildcraftbuilders@8.0.0,buildcraftfactory@8.0.0,teslacorelib@1.0.18,elevatorid@1.3.14,gunpowderlib@1.12.2-1.1,FML@8.0.99.99,obfuscate@0.4.2,thermalexpansion@5.5.7,tombstone@4.7.5,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@8.0.0,mcwfurnitures@1.0.1,armoryexpansion-custommaterials@1.4.2,wings@1.1.6,codechickenlib@3.2.3.358,buildcraftcore@8.0.0,mcwlights@1.0.6,techguns@2.0.2.0,mowziesmobs@1.5.8,cucumber@1.1.3,cgm@0.15.3,cyberware@0.2.11.29,mca@6.1.0,bountifulbaubles@0.0.1,ebwizardry@4.3.15,jei@4.16.1.1013,buildcrafttransport@8.0.0,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,bauble_wings@1.0.0,thermalfoundation@2.6.7,techguns_core@1.12.2-1.0,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,champions@1.12.2-1.0.11.10,acheads@2.1.1,conarm@1.2.5.10,fossil@8.0.5,mahoutsukai@1.12.2-v1.19.55,thermaltinkering@1.0,ichunutil@7.2.2,inventorypets@2.0.15,micdoodlecore@4.0.6,armoryexpansion@1.4.2,mowzies_wings@1.0.0,forge@14.23.5.2860,brandonscore@2.4.20,chococraft@0.9.1.52,buildcraftrobotics@8.0.0,mcwpaths@1.0.2,cyclicmagic@1.20.12,infernalmobs@1.7.6,mysticalagriculture@1.7.5,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,theoneprobe@1.4.28,thermaldynamics@2.5.6,baubles@1.5.2,creativecore@1.10.0,integrationforegoing@1.12.2-1.11,extrautils2@1.0,howlingmoon@0.9,bloodmoon@1.5.3,vanillafix@1.0.10-150,mantle@1.12-1.3.3.55,spartanshields@1.5.5,jaopca@1.12.2-2.3.14.37,bhc@2.0.3,autoreglib@1.3-32,galacticraftcore@4.0.6,wrapup@1.12-1.1.3,opframe@1.4.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,armoryexpansion-iceandfire@1.4.2,aether_legacy@1.5.4.1,tinkersjei@1.2,mjrlegendslib@1.12.2-1.2.1
+[06:30:55] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[06:30:56] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[06:31:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:31:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TenMouse[/127.64.106.204:54617] logged in with entity id 208000 at (586.7737221096874, 5.0, 778.3815681892299)
+[06:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse joined the game
+[06:31:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:31:02] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player TenMouse.
+[06:31:02] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for TenMouse
+[06:31:02] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[06:31:02] [Server thread/INFO] [ebwizardry]: Synchronising config settings for TenMouse
+[06:31:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[06:31:02] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player TenMouse
+[06:31:02] [Server thread/INFO] [Mekanism]: Sent config to 'TenMouse.'
+[06:31:02] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for TenMouse...
+[06:31:02] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TenMouse
+[06:33:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:33:12] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:33:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -466.33215209006266,-21.0,-628.9165042554891
+[06:34:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:34:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:34:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! 465.4335065332091,21.0,629.155185984288
