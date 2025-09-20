@@ -2626,3 +2626,7 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [07:13:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
 [07:15:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Second Age]
 [07:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Rapariga
+[07:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Rapariga
+[07:44:04] [Server thread/INFO] [mca]: Villager death: Cyril. Caused by: Zombie. UUID: 2937d53a-9914-4fa7-8c68-1a7017ba7a79
+[07:44:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
