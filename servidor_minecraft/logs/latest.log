@@ -2554,3 +2554,46 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [06:53:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
 [06:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Storing items]
 [06:55:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:57:58] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[06:58:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:58:03] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[06:58:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -464.60000002384186,-21.0,-629.0870496863042
+[06:58:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Viewing items]
+[06:58:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:58:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Upgrading your Grid]
+[06:58:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Drives]
+[06:59:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:59:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:59:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[06:59:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 464.60000002384186,21.0,629.156083619003
+[07:00:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Drives]
+[07:00:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Upgrading your Grid]
+[07:00:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Storing items]
+[07:00:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:00:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:00:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:04:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Lunar Metal]
+[07:05:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse

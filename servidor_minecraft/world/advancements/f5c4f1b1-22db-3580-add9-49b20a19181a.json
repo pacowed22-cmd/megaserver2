@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-09-20 07:00:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2025-09-19 02:50:01 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 07:05:16 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/birch_planks_path": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-09-18 22:13:48 +0000"
@@ -230,6 +248,12 @@
   "mutantbeasts:you_da_bomby": {
     "criteria": {
       "tamed_creeper_minion": "2025-09-19 00:59:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -368,6 +392,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2025-09-18 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-09-20 07:05:16 +0000"
     },
     "done": true
   },
@@ -564,6 +594,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/gold_pendant": {
     "criteria": {
       "has_gold": "2025-09-15 06:49:14 +0000"
@@ -579,6 +615,12 @@
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-09-15 06:46:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -693,6 +735,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-19 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-09-20 07:04:44 +0000"
     },
     "done": true
   },
@@ -870,6 +918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:spell_failure": {
     "criteria": {
       "criteria_0": "2025-09-19 02:47:27 +0000"
@@ -897,6 +951,12 @@
   "inventorypets:inventorypets/blaze": {
     "criteria": {
       "crafting_table": "2025-09-18 22:16:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -985,6 +1045,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -1090,6 +1156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-09-20 07:05:16 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/break_fossil": {
     "criteria": {
       "plant_fossil": "2025-09-18 22:09:11 +0000"
@@ -1099,6 +1171,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-09-19 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/brick": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:05:16 +0000"
     },
     "done": true
   },
@@ -1418,6 +1496,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
@@ -1430,9 +1514,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -1457,6 +1553,18 @@
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-09-15 06:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-20 07:05:16 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2025-09-20 07:00:07 +0000"
     },
     "done": true
   },
@@ -1530,6 +1638,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-09-20 07:00:33 +0000"
     },
     "done": true
   },
@@ -1653,6 +1767,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-09-20 07:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"
@@ -1773,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"
@@ -1812,6 +1938,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },
@@ -2091,6 +2223,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
@@ -2184,6 +2322,12 @@
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-09-15 06:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-20 07:04:45 +0000"
     },
     "done": true
   },

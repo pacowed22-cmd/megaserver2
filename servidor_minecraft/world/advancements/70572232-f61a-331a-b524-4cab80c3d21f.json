@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-09-20 06:59:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -880,6 +886,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2025-09-20 06:58:08 +0000"
     },
     "done": true
   },
@@ -1735,6 +1747,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-09-20 07:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-18 20:33:38 +0000"
@@ -1858,6 +1876,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-09-20 06:58:28 +0000"
     },
     "done": true
   },
@@ -2554,6 +2578,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-09-20 07:05:13 +0000"
     },
     "done": true
   },
