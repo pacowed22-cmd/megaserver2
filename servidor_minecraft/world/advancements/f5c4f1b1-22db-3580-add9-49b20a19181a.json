@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-20 07:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-09-15 06:59:38 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-09-18 22:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-09-20 07:09:24 +0000"
     },
     "done": true
   },
@@ -1156,6 +1168,12 @@
     },
     "done": true
   },
+  "bhc:main/yellow_heart": {
+    "criteria": {
+      "orange_heart_in_inventory": "2025-09-20 07:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-09-20 07:05:16 +0000"
@@ -1171,6 +1189,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-09-19 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-09-20 07:09:24 +0000"
     },
     "done": true
   },
@@ -1607,6 +1631,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-09-20 07:15:08 +0000"
     },
     "done": true
   },
@@ -2190,6 +2220,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-18 22:33:58 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/failuresaurus": {
+    "criteria": {
+      "flesh": "2025-09-20 07:08:38 +0000"
     },
     "done": true
   },

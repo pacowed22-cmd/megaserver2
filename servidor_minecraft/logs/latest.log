@@ -2597,3 +2597,32 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [07:05:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was slain by Zombie Soldier
+[07:07:34] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:520, y:63, z:747] in the dimension 0
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[07:07:34] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[07:07:34] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[07:07:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[07:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Back to the Drawing Boards]
+[07:08:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:09:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Yellow Heart]
+[07:09:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:09:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:09:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[07:13:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[07:15:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Second Age]
+[07:15:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
