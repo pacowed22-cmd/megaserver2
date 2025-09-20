@@ -1420,6 +1420,12 @@
     },
     "done": true
   },
+  "refinedstorage:binding": {
+    "criteria": {
+      "cutting_tool_in_inventory": "2025-09-20 06:16:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:42:39 +0000"

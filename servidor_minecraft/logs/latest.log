@@ -2256,3 +2256,161 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [05:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by TenMouse
 [05:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by TenMouse
 [05:59:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved wrongly!
+[06:12:32] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@57518386)
+[06:12:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:12:32] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[06:12:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6813ms behind, skipping 136 tick(s)
+[06:13:29] [Server thread/FATAL] [VanillaFix]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:531) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.raz.howlingmoon.WerewolfCapability.getInclinationTitle(WerewolfCapability.java:1106) ~[WerewolfCapability.class:?]
+	at com.raz.howlingmoon.entities.EntityWerewolfGuide.func_184645_a(EntityWerewolfGuide.java:116) ~[EntityWerewolfGuide.class:?]
+	at net.minecraft.entity.EntityLiving.func_184230_a(EntityLiving.java:1227) ~[vq.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_190775_a(EntityPlayer.java:1199) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147340_a(NetHandlerPlayServer.java:1075) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:69) ~[li.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:13) ~[li.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:529) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.I18n
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	at com.raz.howlingmoon.WerewolfCapability.getInclinationTitle(WerewolfCapability.java:1106) ~[WerewolfCapability.class:?]
+	at com.raz.howlingmoon.entities.EntityWerewolfGuide.func_184645_a(EntityWerewolfGuide.java:116) ~[EntityWerewolfGuide.class:?]
+	at net.minecraft.entity.EntityLiving.func_184230_a(EntityLiving.java:1227) ~[vq.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_190775_a(EntityPlayer.java:1199) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147340_a(NetHandlerPlayServer.java:1075) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:69) ~[li.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:13) ~[li.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:529) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+[06:13:48] [Server thread/FATAL] [VanillaFix]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:531) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.raz.howlingmoon.WerewolfCapability.getInclinationTitle(WerewolfCapability.java:1117) ~[WerewolfCapability.class:?]
+	at com.raz.howlingmoon.entities.EntityWerewolfGuide.func_184645_a(EntityWerewolfGuide.java:116) ~[EntityWerewolfGuide.class:?]
+	at net.minecraft.entity.EntityLiving.func_184230_a(EntityLiving.java:1227) ~[vq.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_190775_a(EntityPlayer.java:1199) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147340_a(NetHandlerPlayServer.java:1075) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:69) ~[li.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:13) ~[li.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:529) ~[h.class:?]
+	... 5 more
+[06:13:58] [Server thread/FATAL] [VanillaFix]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:531) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at com.raz.howlingmoon.WerewolfCapability.getInclinationTitle(WerewolfCapability.java:1106) ~[WerewolfCapability.class:?]
+	at com.raz.howlingmoon.entities.EntityWerewolfGuide.func_184645_a(EntityWerewolfGuide.java:116) ~[EntityWerewolfGuide.class:?]
+	at net.minecraft.entity.EntityLiving.func_184230_a(EntityLiving.java:1227) ~[vq.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_190775_a(EntityPlayer.java:1199) ~[aed.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147340_a(NetHandlerPlayServer.java:1075) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:69) ~[li.class:?]
+	at net.minecraft.network.play.client.CPacketUseEntity.func_148833_a(SourceFile:13) ~[li.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:529) ~[h.class:?]
+	... 5 more
+[06:14:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[06:14:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[06:14:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[06:14:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[06:14:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:14:59] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[06:15:00] [Server thread/INFO] [FML]: Unloading dimension 24
+[06:15:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -221.97361872228635,-49.23293275393397,661.9619462417544
+[06:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Binding]
+[06:16:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[06:22:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57518386)
+[06:23:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:23:00] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -466.31634949044724,-21.0,-628.8259003165915
+[06:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Black Dog
+[06:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Hunter
+[06:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Hunter
+[06:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Black Dog
+[06:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Black Dog
+[06:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Black Dog
+[06:23:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[06:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Soldier
+[06:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Zombie Miner
+[06:24:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Zombie Pigman Soldier
+[06:24:11] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:37, y:82, z:78] in the dimension -1
+[06:24:11] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[06:24:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton
+[06:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:24:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[06:24:22] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:543, y:65, z:763] in the dimension 0
+[06:24:22] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:24:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Black Dog
+[06:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Zombie Soldier
+[06:24:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Zombie Soldier
+[06:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Zombie Farmer
+[06:24:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:24:35] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[06:24:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! 465.231920242133,21.0,629.105001470246
+[06:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Farmer
+[06:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Zombie Miner
+[06:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton Soldier
+[06:24:42] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:541, y:65, z:747] in the dimension 0
+[06:24:42] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:24:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[06:24:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -614.1842650217824,0.9215999984741217,-675.1452898175121
+[06:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Vengeance Spirit
+[06:25:07] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:568, y:63, z:743] in the dimension 0
+[06:25:07] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[06:25:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Skeleton
+[06:25:11] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:570, y:79, z:675] in the dimension 0
+[06:25:11] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:25:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:25:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -615.9533461304222,0.9215999984741217,-675.5335580999836
+[06:25:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -631.9269207401717,-2.0784000015258783,-644.273470152662
+[06:25:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was struck by lightning
+[06:25:57] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:597, y:67, z:752] in the dimension 0
+[06:25:57] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:25:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
