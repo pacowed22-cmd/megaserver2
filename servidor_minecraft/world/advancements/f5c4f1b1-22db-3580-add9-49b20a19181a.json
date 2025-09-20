@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "fossil:fossil/fossil_seed": {
+    "criteria": {
+      "fossil_fern_seed": "2025-09-20 06:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"

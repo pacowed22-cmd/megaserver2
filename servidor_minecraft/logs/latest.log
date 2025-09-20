@@ -2519,3 +2519,10 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 [06:34:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
 [06:34:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
 [06:34:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! 465.4335065332091,21.0,629.155185984288
+[06:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga burned to ashes
+[06:39:04] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:558, y:13, z:810] in the dimension 0
+[06:39:04] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[06:39:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[06:43:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Seeds of the Past]
+[06:43:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[06:43:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
