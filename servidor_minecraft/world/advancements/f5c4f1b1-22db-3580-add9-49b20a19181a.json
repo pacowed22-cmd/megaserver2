@@ -630,6 +630,12 @@
     },
     "done": true
   },
+  "fossil:fossil/figurine": {
+    "criteria": {
+      "broken_sword": "2025-09-20 21:43:25 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-09-15 06:46:20 +0000"
