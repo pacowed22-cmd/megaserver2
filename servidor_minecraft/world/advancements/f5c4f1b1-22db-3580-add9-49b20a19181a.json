@@ -1180,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-09-22 05:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-19 02:02:52 +0000"
@@ -1243,6 +1249,12 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-09-15 07:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-09-22 05:53:17 +0000"
     },
     "done": true
   },
@@ -1613,6 +1625,12 @@
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-09-15 06:18:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2025-09-22 05:51:52 +0000"
     },
     "done": true
   },
@@ -2304,6 +2322,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-09-15 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-22 05:48:17 +0000"
     },
     "done": true
   },
