@@ -2190,3 +2190,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [22:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> hilo
 [22:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> yo no salgo ni loco
 [22:33:02] [Server thread/INFO] [mca]: Villager death: Tonia. Caused by: Zombie. UUID: 9e0102f1-8ee9-4711-bb34-2abffe10cd84
+[22:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga burned to ashes
+[22:39:44] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:576, y:5, z:777] in the dimension 0
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[22:39:44] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[22:39:44] [Server thread/INFO] [tombstone]: Rapariga could not be saved
+[22:39:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:42:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[22:42:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse

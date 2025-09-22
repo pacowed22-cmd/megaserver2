@@ -1234,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-09-22 22:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-09-20 07:05:16 +0000"
@@ -2028,6 +2034,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2025-09-20 05:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-09-22 22:42:22 +0000"
     },
     "done": true
   },
