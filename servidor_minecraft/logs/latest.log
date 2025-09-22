@@ -2367,3 +2367,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [05:10:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [05:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [advancements.buildcraftfactory.oil_platform.title]
 [05:10:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[05:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Bat mode]
+[05:13:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
