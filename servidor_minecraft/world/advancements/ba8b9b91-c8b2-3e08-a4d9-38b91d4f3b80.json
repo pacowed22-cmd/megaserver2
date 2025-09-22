@@ -11,27 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-09-22 03:19:08 +0000"
-    },
-    "done": true
-  },
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2025-09-22 03:05:39 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/glowstone_slab": {
-    "criteria": {
-      "has_wood": "2025-09-22 03:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-09-22 03:19:08 +0000"
     },
     "done": true
   },
@@ -41,9 +23,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "tombstone:tutorial/first_knowledge": {
     "criteria": {
-      "has_sand": "2025-09-22 03:19:08 +0000"
+      "coded_trigger": "2025-09-22 04:16:31 +0000"
     },
     "done": true
   },
@@ -59,9 +41,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-09-22 04:16:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 04:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-09-22 03:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-09-22 04:16:13 +0000"
     },
     "done": true
   },
@@ -71,27 +71,15 @@
     },
     "done": true
   },
-  "mcwlights:recipes/lava_lamp": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_planks": "2025-09-22 03:05:39 +0000"
+      "has_ingredient": "2025-09-22 04:16:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-22 03:19:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-09-22 03:19:30 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/sea_lantern_slab": {
-    "criteria": {
-      "has_wood": "2025-09-22 03:05:39 +0000"
     },
     "done": true
   },
@@ -122,15 +110,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-09-22 03:05:39 +0000",
-      "beaches": "2025-09-22 03:06:22 +0000"
+      "beaches": "2025-09-22 03:06:22 +0000",
+      "plains": "2025-09-22 04:16:14 +0000"
     },
     "done": false
-  },
-  "tombstone:tutorial/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-09-22 03:19:28 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -138,27 +121,33 @@
     },
     "done": true
   },
-  "mcwlights:recipes/garden_light": {
+  "tombstone:tutorial/find_grave_dust": {
     "criteria": {
-      "has_planks": "2025-09-22 03:05:39 +0000"
+      "has_grave_dust": "2025-09-22 04:16:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_sand": "2025-09-22 03:19:08 +0000"
+      "has_lots_of_items": "2025-09-22 04:16:17 +0000"
     },
     "done": true
   },
-  "fossil:fossil/root": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "tick": "2025-09-22 03:05:40 +0000"
+      "entered_water": "2025-09-22 04:16:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-22 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2025-09-22 04:26:58 +0000"
     },
     "done": true
   },
@@ -171,6 +160,138 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-09-22 03:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-09-22 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-09-22 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-22 03:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-09-22 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-09-22 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-09-22 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2025-09-22 03:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-22 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2025-09-22 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-22 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-09-22 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-22 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-09-22 04:16:32 +0000"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_planks": "2025-09-22 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-09-22 03:19:30 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/sea_lantern_slab": {
+    "criteria": {
+      "has_wood": "2025-09-22 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_planks": "2025-09-22 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-22 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-22 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "tick": "2025-09-22 03:05:40 +0000"
     },
     "done": true
   },
@@ -210,18 +331,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-09-22 03:19:28 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-09-22 03:05:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-22 03:19:08 +0000"
@@ -231,12 +340,6 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-09-22 03:05:39 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:root": {
-    "criteria": {
-      "tick": "2025-09-22 03:05:40 +0000"
     },
     "done": true
   }

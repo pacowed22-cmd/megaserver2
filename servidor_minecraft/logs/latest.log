@@ -2221,3 +2221,30 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [03:20:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [03:27:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 7.288872784040848,0.0,6.9317295063696065
 [03:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TenMouse: Teleported Auron to TenMouse]
+[04:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron burned to ashes
+[04:16:11] [Server thread/INFO] [tombstone]: The last known grave of Auron is at location [name:Last Grave, x:577, y:5, z:779] in the dimension 0
+[04:16:11] [Server thread/INFO] [tombstone]: Auron has successfully been saved
+[04:16:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Auron
+[04:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Suit Up]
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Isn't It Iron Pick]
+[04:16:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [A Strange Grave's Dust]
+[04:16:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Knowledge of Death]
+[04:16:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Ashes 'n Bones]
+[04:16:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has reached the goal [Bone Crusher]
+[04:16:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Monster Hunter]
+[04:16:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:19:30] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[04:26:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
