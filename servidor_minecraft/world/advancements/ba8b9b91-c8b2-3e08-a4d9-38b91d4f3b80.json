@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-22 05:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-09-22 03:20:09 +0000"
@@ -725,6 +731,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-09-22 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "buildcraftfactory:fluid_storage": {
+    "criteria": {
+      "code_trigger": "2025-09-22 05:40:21 +0000"
     },
     "done": true
   },
