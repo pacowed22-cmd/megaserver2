@@ -2152,3 +2152,41 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [22:17:28] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:601, y:11, z:796] in the dimension 0
 [22:17:28] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
 [22:17:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> ocupo el generador
+[22:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> la pc murio
+[22:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> si es que lo tuve que cambiar para comprobar
+[22:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> y esa mica funciona
+[22:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> si ya lo comprobe y si funciona
+[22:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga did not like the sun
+[22:25:19] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:532, y:63, z:749] in the dimension 0
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[22:25:19] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[22:25:19] [Server thread/INFO] [tombstone]: Rapariga could not be saved
+[22:25:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:25:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga did not like the sun
+[22:25:59] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:489, y:63, z:745] in the dimension 0
+[22:25:59] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[22:26:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> hagase una sombrilla
+[22:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga did not like the sun
+[22:27:19] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:493, y:63, z:747] in the dimension 0
+[22:27:19] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[22:27:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[22:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> usted es tonto
+[22:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> no hay lana
+[22:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> hilo
+[22:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> yo no salgo ni loco
+[22:33:02] [Server thread/INFO] [mca]: Villager death: Tonia. Caused by: Zombie. UUID: 9e0102f1-8ee9-4711-bb34-2abffe10cd84
