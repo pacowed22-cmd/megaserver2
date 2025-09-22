@@ -2435,3 +2435,43 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:26:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Disconnected
+[06:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[06:26:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Auron lost connection: Disconnected
+[06:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron left the game
+[06:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[06:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[06:27:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:27:26] [Server thread/INFO] [FML]: Unloading dimension -9999
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[06:27:26] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[06:27:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:27:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:27:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
