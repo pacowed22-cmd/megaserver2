@@ -595,6 +595,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-09-22 23:34:19 +0000",
       "zombie_villager": "2025-09-15 08:16:55 +0000",
       "skeleton": "2025-09-15 07:30:20 +0000",
       "husk": "2025-09-15 07:27:15 +0000",
