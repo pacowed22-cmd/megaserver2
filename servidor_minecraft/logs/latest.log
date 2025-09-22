@@ -2414,3 +2414,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [06:02:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [06:02:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
 [06:03:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has reached the goal [Strong or Careful]
+[06:05:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron drowned
+[06:05:47] [Server thread/INFO] [tombstone]: The last known grave of Auron is at location [name:Last Grave, x:578, y:5, z:776] in the dimension 0
+[06:05:47] [Server thread/INFO] [tombstone]: Auron has successfully been saved
+[06:05:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Auron
+[06:05:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
+[06:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has reached the goal [Here They Come]
+[06:05:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse drowned whilst trying to escape Zombie
+[06:06:26] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:585, y:5, z:784] in the dimension 0
+[06:06:26] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[06:06:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[06:12:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
