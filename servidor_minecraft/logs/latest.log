@@ -2248,3 +2248,30 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [04:16:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [04:19:30] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
 [04:26:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[04:37:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:39:28] [Server thread/INFO] [Morph]: 1xitem.helmetIron@17
+[04:39:30] [Server thread/INFO] [Morph]: 1xitem.helmetIron@18
+[04:39:32] [Server thread/INFO] [Morph]: 1xitem.helmetIron@18
+[04:39:32] [Server thread/INFO] [Morph]: 1xitem.helmetIron@19
+[04:39:33] [Server thread/INFO] [Morph]: 1xitem.helmetIron@19
+[04:39:35] [Server thread/INFO] [Morph]: 1xitem.helmetIron@19
+[04:39:35] [Server thread/INFO] [Morph]: 1xitem.helmetIron@19
+[04:39:35] [Server thread/INFO] [Morph]: 1xitem.helmetIron@19
+[04:39:37] [Server thread/INFO] [Morph]: 1xitem.helmetIron@20
+[04:39:37] [Server thread/INFO] [Morph]: 1xitem.helmetIron@21
+[04:39:37] [Server thread/INFO] [Morph]: 1xitem.helmetIron@22
+[04:39:41] [Server thread/INFO] [Morph]: 1xitem.helmetIron@22
+[04:39:42] [Server thread/INFO] [Morph]: 1xitem.helmetIron@22
+[04:39:42] [Server thread/INFO] [Morph]: 1xitem.helmetIron@23
+[04:39:43] [Server thread/INFO] [Morph]: 1xitem.helmetIron@23
+[04:39:44] [Server thread/INFO] [Morph]: 1xitem.helmetIron@24
+[04:39:45] [Server thread/INFO] [Morph]: 1xitem.helmetIron@24
+[04:39:45] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[04:39:46] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[04:39:47] [Server thread/INFO] [Morph]: 1xitem.helmetIron@25
+[04:39:47] [Server thread/INFO] [Morph]: 1xitem.helmetIron@26
+[04:39:47] [Server thread/INFO] [Morph]: 1xitem.helmetIron@27
+[04:40:53] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[04:49:07] [Server thread/INFO] [mca]: Villager death: Samual. Caused by: Black Dog. UUID: 45ce3caf-b63c-4164-8fa0-66150d93df72
+[04:51:18] [Server thread/INFO] [mca]: Villager death: Cleo. Caused by: Zombie. UUID: a3e5ec38-4fdf-4deb-8791-cacf0fae1290
