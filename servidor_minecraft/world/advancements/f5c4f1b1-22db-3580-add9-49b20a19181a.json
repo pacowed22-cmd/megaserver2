@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-23 03:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:46:20 +0000"
@@ -579,6 +585,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-09-15 08:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-09-23 03:33:14 +0000"
     },
     "done": true
   },
@@ -1026,6 +1038,12 @@
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-20 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:argonaut": {
+    "criteria": {
+      "cleaver": "2025-09-23 03:37:38 +0000"
     },
     "done": true
   },
