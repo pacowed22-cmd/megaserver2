@@ -2347,6 +2347,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/pig": {
+    "criteria": {
+      "crafting_table": "2025-09-23 02:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-15 06:50:43 +0000"

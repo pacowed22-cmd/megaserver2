@@ -410,3 +410,64 @@
 [02:30:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity vampirism_integrations:villagermcaangry that already exists with UUID 029373bd-9f78-4083-bfac-736b53d54d80
 [02:30:44] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
 [02:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lord Skellington was shot by TenMouse
+[02:31:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID c4310a69-4f90-420d-b05b-4da25ccec46e
+[02:31:09] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[02:31:13] [Server thread/INFO] [mca]: Villager death: Madge. Caused by: Rapariga. UUID: 480c6ed3-0d3e-4ee8-80b4-91d229919366
+[02:31:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[02:31:26] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[02:31:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 464.60000002384186,21.0,628.9202737733992
+[02:32:00] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[02:32:06] [Netty Epoll Server IO #0/ERROR] [mca]: Career ID wasn't assigned for UUID: afbcecd8-1909-4ce1-a64d-609b8cb77889
+[02:32:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[02:35:47] [Netty Epoll Server IO #0/ERROR] [mca]: Career ID wasn't assigned for UUID: b022cc49-2d08-42e4-8f15-48380dacc0c4
+[02:35:47] [Netty Epoll Server IO #1/ERROR] [mca]: Career ID wasn't assigned for UUID: c75e21d6-8cd3-43a1-b7bf-5285b860f052
+[02:37:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[02:37:09] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[02:37:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -467.05043477668505,-21.0,-628.9570209905223
+[02:37:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -9.651284458140395,0.9475404135695129,2.5954793750952234
+[02:37:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Rapariga lost connection: Disconnected
+[02:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga left the game
+[02:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Invisible Friend was shot by TenMouse
+[02:37:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Squealer]
+[02:37:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[02:37:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Why didn't the skeleton go to the dance? Because he had no body to go with! was slain by TenMouse
+[02:38:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Why didn't the skeleton go to the dance? Because he had no body to go with! was slain by TenMouse
+[02:39:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Disconnected
+[02:39:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[02:39:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:39:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:39:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:39:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:39:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:39:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[02:39:24] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:39:24] [Server thread/INFO] [FML]: Unloading dimension -9999
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[02:39:24] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[02:39:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:39:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:39:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
