@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/squid": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:56:50 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:crystal": {
     "criteria": {
       "criteria_0": "2025-09-18 20:28:17 +0000"
@@ -1122,6 +1128,8 @@
       "plains": "2025-09-15 06:43:38 +0000",
       "savanna": "2025-09-15 08:12:54 +0000",
       "savanna_rock": "2025-09-15 08:15:25 +0000",
+      "taiga": "2025-09-23 01:57:39 +0000",
+      "taiga_hills": "2025-09-23 01:57:41 +0000",
       "ocean": "2025-09-15 06:38:35 +0000",
       "river": "2025-09-15 06:38:12 +0000",
       "desert": "2025-09-15 07:23:48 +0000"
@@ -2361,6 +2369,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/cow": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-15 06:37:18 +0000"
@@ -2508,6 +2522,12 @@
   "ebwizardry:defeat_remnant": {
     "criteria": {
       "lightning": "2025-09-18 20:24:49 +0000"
+    },
+    "done": true
+  },
+  "buildcraftenergy:fine_riches": {
+    "criteria": {
+      "oil_desert_biome": "2025-09-23 01:52:40 +0000"
     },
     "done": true
   },
