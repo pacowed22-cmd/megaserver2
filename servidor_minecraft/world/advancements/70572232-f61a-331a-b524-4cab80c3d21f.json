@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/creeper": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -1875,6 +1881,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/torch": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:54:38 +0000"
@@ -2334,6 +2346,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-09-19 00:08:47 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:38:56 +0000"
     },
     "done": true
   },
