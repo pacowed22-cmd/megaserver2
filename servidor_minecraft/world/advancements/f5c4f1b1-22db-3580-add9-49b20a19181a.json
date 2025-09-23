@@ -1944,6 +1944,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/loot": {
+    "criteria": {
+      "crafting_table": "2025-09-23 02:20:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-09-15 06:45:37 +0000"

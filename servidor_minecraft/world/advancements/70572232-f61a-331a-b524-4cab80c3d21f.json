@@ -607,6 +607,7 @@
       "husk": "2025-09-15 07:27:15 +0000",
       "zombie": "2025-09-15 07:28:06 +0000",
       "silverfish": "2025-09-18 21:16:23 +0000",
+      "cave_spider": "2025-09-23 02:06:50 +0000",
       "witch": "2025-09-18 23:04:53 +0000",
       "spider": "2025-09-18 20:39:07 +0000",
       "creeper": "2025-09-15 08:08:49 +0000",
@@ -1648,6 +1649,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/moon": {
+    "criteria": {
+      "crafting_table": "2025-09-23 02:01:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:43:05 +0000"
@@ -2375,6 +2382,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2025-09-23 02:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-15 06:37:18 +0000"
@@ -2744,6 +2757,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2025-09-18 21:50:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/mickerson": {
+    "criteria": {
+      "crafting_table": "2025-09-23 02:06:58 +0000"
     },
     "done": true
   }
