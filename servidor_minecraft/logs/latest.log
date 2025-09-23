@@ -2229,3 +2229,62 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [05:15:18] [Server thread/INFO] [Mekanism]: Sent config to 'TenMouse.'
 [05:15:18] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for TenMouse...
 [05:15:18] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TenMouse
+[05:25:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Auron lost connection: Disconnected
+[05:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron left the game
+[05:25:40] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[05:25:40] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 138 mods : buildcraftlib@8.0.0,cyclopscore@1.6.7,levelup2@${version},astralsorcery@1.10.27,hats@7.1.1,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,buildcraftenergy@8.0.0,cofhcore@4.6.6,draconicevolution@2.3.28,mcwwindows@1.0,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,armoryexpansion-matteroverdrive@1.4.2,ctm@MC1.12.2-1.0.2.31,evilcraft@0.10.78,bewitchment@0.22.65,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,uteamcore@2.2.5.375,buildinggadgets@2.8.4,cofhworld@1.4.0,simpleplanes@3.0.1.7,mcwdoors@1.3,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.6,jeresources@0.9.2.60,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,acintegration@1.11.3,mysticalagradditions@1.3.2,twilightforest@3.11.1021,refinedstorage@1.6.16,morph@7.2.0,industrialforegoing@1.12.2-1.12.2,mcwbridges@1.0.6,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,usefulbackpacks@1.5.4.85,commoncapabilities@2.4.8,redstoneflux@2.1.1,buildcraftsilicon@8.0.0,mcwfences@1.0.0,mcwtrpdoors@1.0.2,botania@r1.10-364,teslacorelib_registries@1.0.18,evilcraftcompat@1.0.0,armorpointspp@3.1.4,patchouli@1.0-23.6,ic2@2.8.222-ex112,abyssalcraft@1.11.2,buildcraftbuilders@8.0.0,buildcraftfactory@8.0.0,teslacorelib@1.0.18,elevatorid@1.3.14,gunpowderlib@1.12.2-1.1,FML@8.0.99.99,obfuscate@0.4.2,thermalexpansion@5.5.7,tombstone@4.7.5,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@8.0.0,mcwfurnitures@1.0.1,armoryexpansion-custommaterials@1.4.2,wings@1.1.6,codechickenlib@3.2.3.358,buildcraftcore@8.0.0,mcwlights@1.0.6,techguns@2.0.2.0,mowziesmobs@1.5.8,cucumber@1.1.3,cgm@0.15.3,cyberware@0.2.11.29,mca@6.1.0,bountifulbaubles@0.0.1,ebwizardry@4.3.15,jei@4.16.1.1013,buildcrafttransport@8.0.0,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,bauble_wings@1.0.0,thermalfoundation@2.6.7,techguns_core@1.12.2-1.0,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,champions@1.12.2-1.0.11.10,acheads@2.1.1,conarm@1.2.5.10,fossil@8.0.5,mahoutsukai@1.12.2-v1.19.55,thermaltinkering@1.0,ichunutil@7.2.2,inventorypets@2.0.15,micdoodlecore@4.0.6,armoryexpansion@1.4.2,mowzies_wings@1.0.0,forge@14.23.5.2860,brandonscore@2.4.20,chococraft@0.9.1.52,buildcraftrobotics@8.0.0,mcwpaths@1.0.2,cyclicmagic@1.20.12,infernalmobs@1.7.6,mysticalagriculture@1.7.5,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,theoneprobe@1.4.28,thermaldynamics@2.5.6,baubles@1.5.2,creativecore@1.10.0,integrationforegoing@1.12.2-1.11,extrautils2@1.0,howlingmoon@0.9,bloodmoon@1.5.3,vanillafix@1.0.10-150,mantle@1.12-1.3.3.55,spartanshields@1.5.5,jaopca@1.12.2-2.3.14.37,bhc@2.0.3,autoreglib@1.3-32,galacticraftcore@4.0.6,wrapup@1.12-1.1.3,opframe@1.4.0,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,armoryexpansion-iceandfire@1.4.2,aether_legacy@1.5.4.1,tinkersjei@1.2,mjrlegendslib@1.12.2-1.2.1
+[05:25:40] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[05:25:40] [Netty Epoll Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[05:25:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:25:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Auron[/127.169.122.194:47885] logged in with entity id 149070 at (282.59033940049267, 125.75, 1057.4322241553152)
+[05:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron joined the game
+[05:25:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Auron
+[05:25:46] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player Auron.
+[05:25:46] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Auron
+[05:25:46] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Auron
+[05:25:46] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Auron
+[05:25:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[05:25:46] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Auron
+[05:25:46] [Server thread/INFO] [Mekanism]: Sent config to 'Auron.'
+[05:25:46] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Auron...
+[05:25:46] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Auron
+[05:31:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Auron lost connection: Disconnected
+[05:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron left the game
+[05:31:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Disconnected
+[05:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[05:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:31:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:31:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:31:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:31:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:31:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[05:31:21] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:31:21] [Server thread/INFO] [FML]: Unloading dimension -9999
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -13
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -20
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -15
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -16
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -17
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -18
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -19
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -21
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -22
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1504
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1501
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1500
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1503
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1502
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1505
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1506
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1507
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1508
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1509
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1510
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -1511
+[05:31:21] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[05:31:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:31:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:31:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
