@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-09-23 03:43:18 +0000"
+    },
+    "done": true
+  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2025-09-15 06:48:28 +0000"
@@ -846,6 +852,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-09-16 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-09-23 03:43:18 +0000"
     },
     "done": true
   },
@@ -1929,6 +1941,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-09-23 03:43:18 +0000"
     },
     "done": true
   },
