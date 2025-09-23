@@ -1787,6 +1787,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/chest": {
+    "criteria": {
+      "crafting_table": "2025-09-23 00:11:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2025-09-15 06:58:23 +0000"

@@ -710,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-09-23 00:11:12 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/acacia_planks_path": {
     "criteria": {
       "has_planks": "2025-09-18 19:35:59 +0000"
@@ -2628,6 +2634,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-09-18 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/worktable": {
+    "criteria": {
+      "worktable": "2025-09-23 00:13:26 +0000"
     },
     "done": true
   },

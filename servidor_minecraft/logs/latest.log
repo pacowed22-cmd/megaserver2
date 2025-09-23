@@ -19,3 +19,59 @@
 [00:02:04] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TenMouse
 [00:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [A Terrible Fortress]
 [00:03:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[00:06:56] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[00:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bafometyr scorched TenMouse
+[00:07:34] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-590, y:38, z:111] in the dimension -1
+[00:07:34] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[00:07:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:07:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:07:41] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bafometyr scorched TenMouse
+[00:07:54] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-608, y:48, z:119] in the dimension -1
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: java.util.ConcurrentModificationException
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:406)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.String.valueOf(String.java:2994)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:413)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30)
+[00:07:54] [File IO Thread/INFO] [STDERR]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:186]: 	at java.lang.Thread.run(Thread.java:750)
+[00:07:54] [Server thread/INFO] [tombstone]: TenMouse could not be saved
+[00:07:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:08:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:08:21] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:08:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -466.20722640437134,-21.0,-629.009719776152
+[00:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse burned to ashes
+[00:10:36] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-459, y:49, z:80] in the dimension -1
+[00:10:36] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[00:10:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:10:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:10:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:11:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Pet Inventory]
+[00:11:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[00:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lord Skellington was slain by TenMouse
+[00:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Timmy was slain by TenMouse
+[00:11:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[00:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse was shot by Zombie Pigman Soldier
+[00:11:37] [Server thread/INFO] [tombstone]: The last known grave of TenMouse is at location [name:Last Grave, x:-350, y:40, z:143] in the dimension -1
+[00:11:37] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[00:11:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:11:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:11:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7243fb67)
+[00:11:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:11:52] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:12:18] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
+[00:12:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:12:18] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.attackDamage'
+[00:13:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:13:20] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:13:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 464.60000002384186,21.0,628.6359631718856
+[00:13:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [It Belongs in a Museum!]
+[00:13:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
