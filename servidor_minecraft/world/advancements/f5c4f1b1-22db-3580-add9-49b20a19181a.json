@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2025-09-23 23:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2025-09-19 00:39:58 +0000"
