@@ -2189,3 +2189,19 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [03:50:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [03:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [First Prayer]
 [03:54:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[04:03:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:03:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:06:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Timed out
+[04:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[04:08:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [First Age]
+[04:08:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Lunar Metal]
+[04:08:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:08:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:09:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:09:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[04:09:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
