@@ -77,3 +77,9 @@
 [00:13:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [00:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> mae como hago que se active lo de quitar cultivos
 [00:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> para eso ocupaba la vara de blaze
+[00:28:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 0.0,-10.63953674540349,0.17645367491672914
+[00:36:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:36:51] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
+[00:36:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! -466.86198117980257,-21.0,-628.8935780824938
+[00:37:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to TenMouse
+[00:37:13] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for TenMouse
