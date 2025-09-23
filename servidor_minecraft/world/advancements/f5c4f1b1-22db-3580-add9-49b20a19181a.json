@@ -1985,6 +1985,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_salt": {
+    "criteria": {
+      "hat": "2025-09-23 00:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
