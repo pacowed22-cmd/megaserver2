@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-09-23 03:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-09-18 22:13:48 +0000"
