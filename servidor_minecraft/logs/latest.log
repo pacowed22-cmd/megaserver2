@@ -103,3 +103,23 @@
 [00:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> a mi tambien
 [00:53:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> azada
 [01:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> fuck you
+[01:34:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:34:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:34:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:34:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:35:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:35:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:35:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[01:35:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[01:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Skeleton
+[01:36:49] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:566, y:251, z:507] in the dimension 0
+[01:36:50] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[01:36:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[01:37:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Hot Stuff]
+[01:37:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Leash Your Potential]
+[01:38:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:38:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [Wizard's Apprentice]
+[01:38:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse
+[01:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Pumpkinhead!]
+[01:38:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga

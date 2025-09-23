@@ -1428,6 +1428,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/lead": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2025-09-18 19:40:37 +0000"
@@ -1575,6 +1581,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-09-19 03:04:54 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/magmacube": {
+    "criteria": {
+      "crafting_table": "2025-09-23 01:37:42 +0000"
     },
     "done": true
   },

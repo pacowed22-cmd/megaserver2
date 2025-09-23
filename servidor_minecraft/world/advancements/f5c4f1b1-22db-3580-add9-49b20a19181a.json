@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2025-09-23 01:38:16 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-09-15 08:33:26 +0000"
@@ -553,9 +559,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2025-09-23 01:35:55 +0000",
       "criteria_0": "2025-09-18 21:40:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
