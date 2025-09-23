@@ -2156,3 +2156,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [22:16:36] [Server thread/INFO] [mca]: Villager death: Madison. Caused by: Zombie. UUID: bf560487-6612-4dc5-959a-f176c6db5412
 [22:18:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> donde puso la comida seu porra
 [22:21:30] [Server thread/INFO] [mca]: Villager death: Zelda. Caused by: Ghost. UUID: 8e55a123-7063-4c45-9af9-33f582ab63d0
+[22:24:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved wrongly!
+[22:28:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved wrongly!
