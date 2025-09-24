@@ -1734,6 +1734,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/illuminati": {
+    "criteria": {
+      "crafting_table": "2025-09-24 19:42:32 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron_ingot": "2025-09-15 06:42:16 +0000"
