@@ -2345,3 +2345,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [04:38:36] [Server thread/INFO] [Mekanism]: Sent config to 'TenMouse.'
 [04:38:36] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for TenMouse...
 [04:38:36] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TenMouse
+[04:43:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Auron lost connection: Disconnected
+[04:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron left the game
+[04:49:17] [Server thread/INFO] [mca]: Villager death: Zachary. Caused by: Zombie. UUID: 69be4957-df09-43b2-b2f5-9d3120cfeffc
+[04:52:11] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
