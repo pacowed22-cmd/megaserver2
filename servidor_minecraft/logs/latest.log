@@ -2226,3 +2226,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [21:13:57] [Server thread/INFO] [mca]: Villager death: Chae. Caused by: Werewolf. UUID: af23cce6-e1f2-4551-8e61-58e481bdde12
 [21:15:40] [Server thread/INFO] [mca]: Villager death: Chantel. Caused by: Zombie. UUID: f7b4343c-6b03-4ff3-a281-4488bf4a256c
 [21:19:28] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[21:29:48] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
+[21:35:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Blood cult]
+[21:35:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga

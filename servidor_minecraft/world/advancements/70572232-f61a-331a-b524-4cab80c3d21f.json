@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "flower": "2025-09-24 21:35:30 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-09-15 06:35:48 +0000"
