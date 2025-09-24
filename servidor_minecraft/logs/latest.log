@@ -2131,3 +2131,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [19:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [We're Watching]
 [19:42:32] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
 [19:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rapariga: Set own game mode to Survival Mode]
+[19:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rapariga: Set own game mode to Creative Mode]
+[19:55:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rapariga: Set own game mode to Survival Mode]
+[19:56:36] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
