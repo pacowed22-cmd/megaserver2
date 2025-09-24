@@ -2363,3 +2363,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [04:56:35] [Server thread/INFO] [mca]: Villager death: Mason. Caused by: Zombie. UUID: 80cf60a5-5b73-4339-a7f6-066029a83382
 [04:57:22] [Server thread/INFO] [mca]: Villager death: Sharell. Caused by: Cyberzombie. UUID: 157e1f31-cee8-4a95-b9be-bdc23a67af53
 [04:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> soulium dagger
+[05:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse has made the advancement [AbyssalCraft]
+[05:09:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for TenMouse

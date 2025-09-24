@@ -730,6 +730,12 @@
     },
     "done": true
   },
+  "abyssalcraft:root": {
+    "criteria": {
+      "necronomicon": "2025-09-24 05:09:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2025-09-15 08:33:14 +0000"
