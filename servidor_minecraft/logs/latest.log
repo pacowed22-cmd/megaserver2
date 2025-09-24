@@ -2188,3 +2188,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [03:19:36] [Server thread/INFO] [Mekanism]: Sent config to 'Auron.'
 [03:19:36] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Auron...
 [03:19:36] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Auron
+[03:27:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:27:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Into Fire]
+[03:27:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
