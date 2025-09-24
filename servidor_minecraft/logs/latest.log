@@ -2229,3 +2229,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [21:29:48] [Server thread/INFO] [STDOUT]: [techguns.items.GenericItemShared:func_77659_a:333]: amount not merged:0
 [21:35:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Blood cult]
 [21:35:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[21:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [What a Deal!]
+[21:37:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
