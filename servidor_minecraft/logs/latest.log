@@ -2161,3 +2161,27 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [20:34:03] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Lux Saber from an Illuminati Pet
 [20:34:04] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Sorcerer Battlemage Leggings from an Illuminati Pet
 [20:34:05] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Silver Dust from an Illuminati Pet
+[20:36:19] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned White Portuguese Pavement Slab from an Illuminati Pet
+[20:36:19] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Giant's Sword from an Illuminati Pet
+[20:36:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:36:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:36:21] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Satchel (Signalum) from an Illuminati Pet
+[20:36:22] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Perpetual Ice Stairs from an Illuminati Pet
+[20:36:23] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Power Armor Helmet from an Illuminati Pet
+[20:36:24] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Sealable Fluid Pipe from an Illuminati Pet
+[20:36:25] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:552]: TextComponent{text='', siblings=[TextComponent{text='Rapariga', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg Rapariga '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"Rapariga",id:"70572232-f61a-331a-b524-4cab80c3d21f"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=Rapariga}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg Rapariga '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"Rapariga",id:"70572232-f61a-331a-b524-4cab80c3d21f"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=Rapariga}} spawned Nether Star from an Illuminati Pet
+[20:36:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[20:36:25] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned §zPurple item.PipeItemsWood.name from an Illuminati Pet
+[20:36:26] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Constantan Helmet from an Illuminati Pet
+[20:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /op <player>
+[20:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 25 (/help <page>) ---
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DeleteBlockMaps <player>
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FindBlockMaps <player>
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /acunlockallknowledge
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /bcore_util help
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enderchest
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
