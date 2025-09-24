@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2025-09-24 05:23:46 +0000"
+    },
+    "done": true
+  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2025-09-15 06:19:37 +0000"
@@ -1716,6 +1722,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2025-09-24 05:31:02 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-09-15 06:18:16 +0000"
@@ -1972,6 +1984,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-20 05:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-09-24 05:27:14 +0000"
     },
     "done": true
   },
@@ -2447,6 +2465,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-09-15 07:28:30 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2025-09-24 05:30:29 +0000"
     },
     "done": true
   },

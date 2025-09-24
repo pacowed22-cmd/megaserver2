@@ -1576,6 +1576,12 @@
     },
     "done": true
   },
+  "evilcraft:spirit_cooker": {
+    "criteria": {
+      "criteria_0": "2025-09-24 05:38:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-15 06:37:14 +0000"
