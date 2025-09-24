@@ -2134,3 +2134,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [19:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rapariga: Set own game mode to Creative Mode]
 [19:55:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rapariga: Set own game mode to Survival Mode]
 [19:56:36] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[20:17:05] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned QuantumSuit Boots from an Illuminati Pet
+[20:17:06] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Constantan Fishing Rod from an Illuminati Pet
+[20:20:36] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Redstone Battery from an Illuminati Pet
+[20:20:37] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Bone Meal from an Illuminati Pet
+[20:22:42] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Tier 4 Booster from an Illuminati Pet
+[20:22:43] [Server thread/INFO] [STDOUT]: [com.inventorypets.pets.petIlluminati:func_77659_a:580]: Rapariga spawned Antiblock from an Illuminati Pet
