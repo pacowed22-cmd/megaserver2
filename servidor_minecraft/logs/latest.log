@@ -2185,3 +2185,40 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enderchest
 [20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
 [20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[20:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> yahel es playo
+[20:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:59:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 25 (/help <page>) ---
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DeleteBlockMaps <player>
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FindBlockMaps <player>
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /acunlockallknowledge
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /bcore_util help
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enderchest
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[20:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 25 (/help <page>) ---
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DeleteBlockMaps <player>
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FindBlockMaps <player>
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /acunlockallknowledge
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /bcore_util help
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enderchest
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[20:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 2 of 25 (/help <page>) ---
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /gamerule <rule name> [value]
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /heal <player>
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /jtp <x y z dim>
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /locate <feature>
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /maxmahou player_name new_mahou_limit
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /morph help
+[20:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /projecte <changelog, clearKnowledge, setEMC, reloadEMC, removeEMC, resetEMC>
+[20:59:59] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@2aa5d6c4)
+[20:59:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[20:59:59] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[21:00:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5463ms behind, skipping 109 tick(s)
+[21:00:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[21:00:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[21:00:55] [Server thread/INFO] [FML]: Unloading dimension 24
+[21:04:44] [Server thread/INFO] [ebwizardry]: Deleted enchanted book with illegal enchantments
