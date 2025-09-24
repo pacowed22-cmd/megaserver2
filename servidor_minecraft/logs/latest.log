@@ -2349,3 +2349,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [04:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron left the game
 [04:49:17] [Server thread/INFO] [mca]: Villager death: Zachary. Caused by: Zombie. UUID: 69be4957-df09-43b2-b2f5-9d3120cfeffc
 [04:52:11] [Server thread/WARN] [mca]: No skin found for profession: `bewitchment:alchemist`. A random skin will be generated.
+[04:52:49] [Server thread/INFO] [mca]: Villager death: Efren. Caused by: Zombie. UUID: 53240596-a494-46d5-9d52-e50b169d2612
+[04:53:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Zombie Farmer
+[04:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Rapariga
+[04:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Rapariga
+[04:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was slain by Rapariga
+[04:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie was shot by Skeleton Soldier
+[04:55:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was slain by Blaze
+[04:55:09] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:575, y:5, z:779] in the dimension 0
+[04:55:09] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[04:55:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[04:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga got revenge on Blaze
+[04:56:35] [Server thread/INFO] [mca]: Villager death: Mason. Caused by: Zombie. UUID: 80cf60a5-5b73-4339-a7f6-066029a83382
+[04:57:22] [Server thread/INFO] [mca]: Villager death: Sharell. Caused by: Cyberzombie. UUID: 157e1f31-cee8-4a95-b9be-bdc23a67af53
+[04:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> soulium dagger
