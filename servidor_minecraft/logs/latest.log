@@ -16,3 +16,19 @@
 [01:04:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
 [01:04:40] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
 [01:04:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rapariga moved too quickly! -466.9725802635262,-21.0,-628.997205257508
+[01:06:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:06:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:06:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse's Zombie burned to death
+[01:07:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:07:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[01:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga was shot by Zombie Pigman Soldier
+[01:07:36] [Server thread/INFO] [tombstone]: The last known grave of Rapariga is at location [name:Last Grave, x:121, y:34, z:236] in the dimension -1
+[01:07:36] [Server thread/INFO] [tombstone]: Rapariga has successfully been saved
+[01:07:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[01:07:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[01:07:53] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[01:08:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Rapariga
+[01:08:35] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Rapariga
+[01:10:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Timed out
+[01:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
+[01:10:17] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player TenMouse

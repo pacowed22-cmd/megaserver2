@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-09-24 01:06:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-09-18 20:43:52 +0000"
@@ -386,6 +392,12 @@
   "fossil:fossil/fossil_seed": {
     "criteria": {
       "fossil_fern_seed": "2025-09-20 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-09-24 01:06:25 +0000"
     },
     "done": true
   },
@@ -751,6 +763,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-09-15 06:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2025-09-24 01:07:29 +0000"
     },
     "done": true
   },
@@ -1237,6 +1255,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-09-15 07:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2025-09-24 01:07:29 +0000"
     },
     "done": true
   },
