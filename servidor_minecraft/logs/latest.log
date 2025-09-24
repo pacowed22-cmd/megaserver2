@@ -2192,3 +2192,76 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [03:27:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
 [03:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Auron has made the advancement [Into Fire]
 [03:27:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:32:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Auron> [name:"Quarry", x:300, y:125, z:1062]
+[03:35:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:35:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [Bingo! Dino DNA!]
+[03:39:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[03:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rapariga has made the advancement [The Crucible]
+[03:39:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Rapariga
+[03:41:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! -5.946211730645814,0.0,-9.705511092560528
+[03:43:31] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
+[03:43:31] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[03:43:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! 9.515200119645868,-4.824661534980763,1.2916106594245775
+[03:43:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! 10.281663939786313,-5.089628322112091,1.103316503092401
+[03:43:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! 11.058320649824822,-5.354673213108811,0.9048691520940793
+[03:43:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! 11.844067379336423,-5.619778112869454,0.697367181831396
+[03:43:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Auron
+[03:43:49] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:44:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Rapariga) moved too quickly! -7.7753400710024465,-0.13116527917684095,6.7485509917044055
+[03:44:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:44:46] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[03:45:36] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-32, 123] in dimension 0 (overworld) while populating chunk [-32, 124], causing cascading worldgen lag.
+[03:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:45:36] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-33, 123] in dimension 0 (overworld) while populating chunk [-32, 124], causing cascading worldgen lag.
+[03:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:45:36] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-33, 124] in dimension 0 (overworld) while populating chunk [-32, 124], causing cascading worldgen lag.
+[03:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:45:42] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:45:42] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:45:44] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:44] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:44] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:45:44] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:45:47] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:48] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[03:45:48] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:48] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:48] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[03:45:48] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:druid`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:45:49] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:vampire_expert`. A random skin will be generated.
+[03:45:51] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-28, 107] in dimension 0 (overworld) while populating chunk [-29, 107], causing cascading worldgen lag.
+[03:45:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:45:51] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:45:51] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:45:51] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[03:46:19] [Server thread/INFO] [mca]: Villager death: Sidney. Caused by: Alayna. UUID: bc853421-010f-4115-ab9c-d0783dca1414
+[03:46:20] [Server thread/INFO] [mca]: Villager death: Coreen. Caused by: Rapariga. UUID: d9e41485-3135-4562-a063-74718d746962
+[03:46:20] [Server thread/INFO] [mca]: Villager death: Caridad. Caused by: Mia. UUID: 264700d0-2542-4e7a-8e49-2fe475cc76eb
+[03:46:23] [Server thread/INFO] [mca]: Villager death: Alayna. Caused by: Rapariga. UUID: f6645946-1521-4749-82e2-b19c3ed8ff35
+[03:46:25] [Server thread/INFO] [mca]: Villager death: Kendall. Caused by: Rapariga. UUID: 70c74a3e-07c8-418b-94e3-15de645acc66
+[03:46:29] [Server thread/INFO] [mca]: Villager death: Pam. Caused by: Rosita. UUID: 592ac560-50c6-4c3f-9127-ce39673b12c2
+[03:46:40] [Server thread/INFO] [mca]: Villager death: Mia. Caused by: Roger. UUID: c9681289-ccb3-4fcc-9ef4-da8f11c6d664
+[03:50:01] [Server thread/INFO] [mca]: Villager death: Lucretia. Caused by: Black Dog. UUID: 8d05cb72-9329-4bce-8494-e25840e084b7

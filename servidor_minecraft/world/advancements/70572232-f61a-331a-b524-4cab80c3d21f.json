@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "fossil:fossil/cultivate": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-24 03:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-18 20:25:26 +0000"
@@ -2428,6 +2434,12 @@
   "inventorypets:inventorypets/cow": {
     "criteria": {
       "crafting_table": "2025-09-23 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/dna": {
+    "criteria": {
+      "dna": "2025-09-24 03:39:07 +0000"
     },
     "done": true
   },
