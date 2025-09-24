@@ -2732,6 +2732,12 @@
     },
     "done": true
   },
+  "fossil:fossil/broken_sword": {
+    "criteria": {
+      "broken_sword": "2025-09-24 04:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-15 06:54:38 +0000"
