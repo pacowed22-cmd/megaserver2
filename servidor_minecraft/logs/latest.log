@@ -2265,3 +2265,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'simpleplanes:bop_cherry_hel
 [03:46:29] [Server thread/INFO] [mca]: Villager death: Pam. Caused by: Rosita. UUID: 592ac560-50c6-4c3f-9127-ce39673b12c2
 [03:46:40] [Server thread/INFO] [mca]: Villager death: Mia. Caused by: Roger. UUID: c9681289-ccb3-4fcc-9ef4-da8f11c6d664
 [03:50:01] [Server thread/INFO] [mca]: Villager death: Lucretia. Caused by: Black Dog. UUID: 8d05cb72-9329-4bce-8494-e25840e084b7
+[03:52:27] [Server thread/WARN] [mca]: No skin found for profession: `cyclicmagic:sage`. A random skin will be generated.
+[03:59:16] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
