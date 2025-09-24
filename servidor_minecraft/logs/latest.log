@@ -32,3 +32,4 @@
 [01:10:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TenMouse lost connection: Timed out
 [01:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TenMouse left the game
 [01:10:17] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player TenMouse
+[01:16:58] [Server thread/INFO] [mca]: Villager death: Noemi. Caused by: Werewolf. UUID: 14773e89-ead6-42e0-aec8-9d8aab5a7147
