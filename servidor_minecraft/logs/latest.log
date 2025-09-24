@@ -1,2 +1,6 @@
 [00:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TenMouse> donde esta lo del horno
 [00:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Rapariga> en el cofre de afuera
+[00:15:10] [Server thread/INFO] [tombstone]: The death event of the player TenMouse was cancelled by another mod
+[00:15:10] [Server thread/INFO] [tombstone]: TenMouse has successfully been saved
+[00:15:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TenMouse moved too quickly! 9.370489303979355,3.149999864399433,-2.53233376574849
+[00:33:40] [Server thread/INFO] [ebwizardry]: Deleted enchanted book with illegal enchantments
