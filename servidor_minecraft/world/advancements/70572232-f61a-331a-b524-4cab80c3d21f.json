@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "feet": "2025-09-24 20:29:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-09-18 22:33:14 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-09-15 06:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-24 20:34:02 +0000"
     },
     "done": true
   },
@@ -1192,6 +1204,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2025-09-24 20:29:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_planks": "2025-09-15 06:42:39 +0000"
@@ -1225,6 +1243,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-15 07:24:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "boots": "2025-09-24 20:29:13 +0000"
     },
     "done": true
   },
@@ -2597,6 +2621,12 @@
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2025-09-15 08:20:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "3": "2025-09-24 20:29:13 +0000"
     },
     "done": true
   },
